@@ -1,0 +1,8 @@
+Time=0  | Reset=1 | Enable=0 | Count=15
+Time=10 | Reset=0 | Enable=1 | Count=15
+Time=15 | Reset=0 | Enable=1 | Count=14
+Time=25 | Reset=0 | Enable=1 | Count=13
+Time=35 | Reset=0 | Enable=1 | Count=12
+...
+Time=155 | Reset=0 | Enable=1 | Count=0
+Time=165 | Reset=0 | Enable=1 | Count=15
